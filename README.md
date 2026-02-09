@@ -12,7 +12,7 @@ I am seeking a Tier 1 Analyst role within a Security Operations Center (SOC) whe
 
 | Skill                                              | Associated Project                                                                 |
 | -------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| SIEM implementation, log parsing & correlation     | [Detection Lab]([https://github.com/yourusername/detection-lab](https://github.com/dd3728/Digital-Defence-3728/blob/1513dd25ab8a88b2f0baa2b45740d1b2d6e9d1be/On-Prem-Active%20Directory%20plus%20SIEM-Screenshots-Attached.pdf))                     |
+| SIEM implementation, log parsing & correlation     | [Detection Lab](https://github.com/dd3728/Digital-Defence-3728/blob/1513dd25ab8a88b2f0baa2b45740d1b2d6e9d1be/On-Prem-Active%20Directory%20plus%20SIEM-Screenshots-Attached.pdf))                     |
 | Network capture & traffic analysis (Wireshark)     | [Detection Lab — Network Forensics](https://github.com/yourusername/detection-lab) |
 | Cloud VM provisioning & remote access (Azure, SSH) | [Cloud Lab — Azure VMs](https://github.com/yourusername/cloud-lab)                 |
 
